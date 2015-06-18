@@ -148,7 +148,7 @@ code {
 .block-comments #disqus_thread { width: 600px; text-align: left; margin-left: auto; margin-right: auto; }
 
 .tower {
-    display: block;
+    display: false;
     width: 180px;
     height: 260px;
     position: absolute;
